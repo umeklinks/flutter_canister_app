@@ -50,4 +50,9 @@ To deploy the project:
 ```bash
 dfx deploy
 ```
+To stop the project:
+
+```bash
+dfx stop
+```
 
